@@ -952,7 +952,7 @@ plt.show()
     
 
 
-![png](output_24_1.png)
+![png](images/confusion_matrix.png)
 
 
 ## Visualize Output of Model
@@ -1080,7 +1080,7 @@ plt.ylim((0.0, 1.0))
 
 
 
-![png](output_35_1.png)
+![png](images/bar_chat.png)
 
 
 You can modify the code to produce a similar chart for different flights
