@@ -1,4 +1,3 @@
-
 # Machine Learning Model that predicts flight delays
 This is a binary classification model that predicts whether a flight will arrive on-time or late ("binary" because there are only two possible outputs).
 <br> It utilizes:
@@ -1080,7 +1079,7 @@ plt.ylim((0.0, 1.0))
 
 
 
-![png](images/bar_chat.png)
+![png](images/bar_chart.png)
 
 
 You can modify the code to produce a similar chart for different flights
